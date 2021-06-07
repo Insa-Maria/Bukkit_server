@@ -1,0 +1,65 @@
+# 
+#      borderSize: 30
+#      borderCentreX: 441.5
+#      borderCentreZ: -55.0
+World: world
+HomeVillage:
+  x: 438
+  y: 63
+  z: -36
+PlayerLevels:
+  Levels:
+    '1':
+      xp: 500
+      item: coal
+      amount: 15
+    '2':
+      xp: 1200
+      item: emerald
+      amount: 10
+  2d0f4c95-f12b-4db5-af67-07dcf4f9a49d:
+    level: 1
+    xp: 500
+Test:
+  plot:
+    type: STONE
+    x: 442
+    y: 63
+    z: -56
+    centreX: 446
+    centreY: 63
+    centreZ: -59
+HousePlots:
+  Plots:
+  - type: GRASS_BLOCK
+    id: 1
+    x: 438
+    y: 63
+    z: -36
+    centreX: 442
+    centreY: 63
+    centreZ: -39
+  - type: SAND
+    id: 2
+    x: 423
+    y: 63
+    z: -36
+    centreX: 427
+    centreY: 63
+    centreZ: -39
+  - type: STONE
+    id: 3
+    x: 450
+    y: 64
+    z: -39
+    centreX: 454
+    centreY: 64
+    centreZ: -42
+  - type: GRASS_BLOCK
+    id: 4
+    x: 442
+    y: 63
+    z: -56
+    centreX: 446
+    centreY: 63
+    centreZ: -59

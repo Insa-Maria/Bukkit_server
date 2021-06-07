@@ -1,76 +1,127 @@
-[16:04:21] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:04:21] [main/INFO]: Found new data pack file/bukkit, loading it automatically
-[16:04:21] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[16:04:22] [Worker-Main-13/INFO]: Loaded 7 recipes
-[16:04:23] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[16:04:23] [Server thread/INFO]: Loading properties
-[16:04:23] [Server thread/INFO]: Default game type: SURVIVAL
-[16:04:23] [Server thread/INFO]: Generating keypair
-[16:04:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:04:23] [Server thread/INFO]: Using default channel type
-[16:04:24] [Server thread/INFO]: This server is running CraftBukkit version 3092-Bukkit-ebe18b9 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[16:04:24] [Server thread/INFO]: Preparing level "world"
-[16:04:28] [Server thread/WARN]: Unable to find spawn biome
-[16:04:29] [Server thread/WARN]: Unable to find spawn biome
-[16:04:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:04:29] [Worker-Main-18/INFO]: Preparing spawn area: 0%
-[16:04:29] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:04:30] [Worker-Main-18/INFO]: Preparing spawn area: 2%
-[16:04:30] [Worker-Main-10/INFO]: Preparing spawn area: 4%
-[16:04:31] [Worker-Main-14/INFO]: Preparing spawn area: 6%
-[16:04:31] [Worker-Main-12/INFO]: Preparing spawn area: 9%
-[16:04:32] [Worker-Main-12/INFO]: Preparing spawn area: 11%
-[16:04:32] [Worker-Main-8/INFO]: Preparing spawn area: 15%
-[16:04:33] [Worker-Main-8/INFO]: Preparing spawn area: 17%
-[16:04:33] [Worker-Main-9/INFO]: Preparing spawn area: 25%
-[16:04:34] [Worker-Main-18/INFO]: Preparing spawn area: 29%
-[16:04:34] [Worker-Main-18/INFO]: Preparing spawn area: 35%
-[16:04:35] [Worker-Main-18/INFO]: Preparing spawn area: 40%
-[16:04:35] [Worker-Main-12/INFO]: Preparing spawn area: 45%
-[16:04:36] [Worker-Main-10/INFO]: Preparing spawn area: 48%
-[16:04:36] [Worker-Main-18/INFO]: Preparing spawn area: 54%
-[16:04:37] [Worker-Main-11/INFO]: Preparing spawn area: 57%
-[16:04:37] [Worker-Main-10/INFO]: Preparing spawn area: 63%
-[16:04:38] [Worker-Main-11/INFO]: Preparing spawn area: 69%
-[16:04:38] [Worker-Main-9/INFO]: Preparing spawn area: 74%
-[16:04:39] [Worker-Main-8/INFO]: Preparing spawn area: 79%
-[16:04:39] [Worker-Main-9/INFO]: Preparing spawn area: 84%
-[16:04:40] [Worker-Main-11/INFO]: Preparing spawn area: 89%
-[16:04:40] [Worker-Main-14/INFO]: Preparing spawn area: 94%
-[16:04:41] [Server thread/INFO]: Time elapsed: 11860 ms
-[16:04:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[16:04:41] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[16:04:41] [Worker-Main-11/INFO]: Preparing spawn area: 2%
-[16:04:42] [Worker-Main-8/INFO]: Preparing spawn area: 10%
-[16:04:42] [Worker-Main-10/INFO]: Preparing spawn area: 21%
-[16:04:43] [Worker-Main-12/INFO]: Preparing spawn area: 28%
-[16:04:43] [Worker-Main-12/INFO]: Preparing spawn area: 38%
-[16:04:44] [Worker-Main-14/INFO]: Preparing spawn area: 48%
-[16:04:44] [Worker-Main-18/INFO]: Preparing spawn area: 58%
-[16:04:45] [Worker-Main-12/INFO]: Preparing spawn area: 68%
-[16:04:45] [Worker-Main-12/INFO]: Preparing spawn area: 76%
-[16:04:46] [Worker-Main-18/INFO]: Preparing spawn area: 87%
-[16:04:46] [Server thread/INFO]: Time elapsed: 5466 ms
-[16:04:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[16:04:46] [Worker-Main-18/INFO]: Preparing spawn area: 0%
-[16:04:47] [Worker-Main-12/INFO]: Preparing spawn area: 30%
-[16:04:47] [Worker-Main-9/INFO]: Preparing spawn area: 87%
-[16:04:47] [Server thread/INFO]: Time elapsed: 1098 ms
-[16:04:47] [Server thread/INFO]: Done (22.967s)! For help, type "help"
-[16:05:11] [User Authenticator #1/INFO]: UUID of player MeryWii22 is 2d0f4c95-f12b-4db5-af67-07dcf4f9a49d
-[16:05:11] [Server thread/INFO]: MeryWii22[/127.0.0.1:51628] logged in with entity id 501 at ([world]118.5, 66.0, 151.5)
-[16:05:16] [Server thread/INFO]: MeryWii22 lost connection: Disconnected
-[16:05:16] [Server thread/INFO]: MeryWii22 left the game
-[16:06:16] [Server thread/INFO]: Stopping the server
-[16:06:16] [Server thread/INFO]: Stopping server
-[16:06:16] [Server thread/INFO]: Saving players
-[16:06:16] [Server thread/INFO]: Saving worlds
-[16:06:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:06:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:06:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[16:06:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:06:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[16:06:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:06:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:06:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:06:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:14:38] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:14:39] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[16:14:39] [Worker-Main-14/INFO]: Loaded 7 recipes
+[16:14:40] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[16:14:40] [Server thread/INFO]: Loading properties
+[16:14:40] [Server thread/INFO]: Default game type: ADVENTURE
+[16:14:40] [Server thread/INFO]: Generating keypair
+[16:14:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:14:40] [Server thread/INFO]: Using default channel type
+[16:14:42] [Server thread/INFO]: This server is running CraftBukkit version 3092-Bukkit-ebe18b9 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[16:14:43] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[16:14:45] [Server thread/WARN]: Legacy plugin dynmap v3.1-457 does not specify an api-version.
+[16:14:45] [Server thread/INFO]: [dynmap] Loading dynmap v3.1-457
+[16:14:45] [Server thread/INFO]: [dynmap] version=3092-Bukkit-ebe18b9 (MC: 1.16.5)
+[16:14:45] [Server thread/INFO]: [dynmap] Mod Support API available
+[16:14:45] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.5+57d5ac9
+[16:14:45] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@205adb33]
+[16:14:45] [Server thread/INFO]: [WorldBorder] Loading WorldBorder v1.9.10 (beta)
+[16:14:45] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.4+f7ff984
+[16:14:45] [Server thread/INFO]: [Gamepilotstudy] Loading Gamepilotstudy v1.0-SNAPSHOT
+[16:14:45] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.5+57d5ac9
+[16:14:45] [Server thread/INFO]: WEPIF: Updated config file
+[16:14:45] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[16:14:46] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R3 as the Bukkit adapter
+[16:14:46] [Server thread/INFO]: [WorldEdit] ====================================================
+[16:14:46] [Server thread/INFO]: [WorldEdit]  WorldEdit works better if you use Paper 
+[16:14:46] [Server thread/INFO]: [WorldEdit]  as your server software. 
+[16:14:46] [Server thread/INFO]: [WorldEdit]   
+[16:14:46] [Server thread/INFO]: [WorldEdit]  Paper offers significant performance improvements,
+[16:14:46] [Server thread/INFO]: [WorldEdit]  bug fixes, security enhancements and optional
+[16:14:46] [Server thread/INFO]: [WorldEdit]  features for server owners to enhance their server.
+[16:14:46] [Server thread/INFO]: [WorldEdit]   
+[16:14:46] [Server thread/INFO]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[16:14:46] [Server thread/INFO]: [WorldEdit]  better at diagnosing lag problems over v1.
+[16:14:46] [Server thread/INFO]: [WorldEdit]   
+[16:14:46] [Server thread/INFO]: [WorldEdit]  All of your plugins should still work, and the
+[16:14:46] [Server thread/INFO]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[16:14:46] [Server thread/INFO]: [WorldEdit]   
+[16:14:46] [Server thread/INFO]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[16:14:46] [Server thread/INFO]: [WorldEdit] ====================================================
+[16:14:46] [Server thread/INFO]: Preparing level "world"
+[16:14:46] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[16:14:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:14:48] [Server thread/INFO]: Preparing spawn area: 0%
+[16:14:48] [Server thread/INFO]: Preparing spawn area: 0%
+[16:14:48] [Server thread/INFO]: Preparing spawn area: 23%
+[16:14:50] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[16:14:50] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[16:14:50] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[16:14:50] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[16:14:50] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[16:14:51] [Worker-Main-17/INFO]: Preparing spawn area: 93%
+[16:14:51] [Server thread/INFO]: Preparing spawn area: 96%
+[16:14:51] [Server thread/INFO]: Time elapsed: 4628 ms
+[16:14:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:14:52] [Server thread/INFO]: Preparing spawn area: 0%
+[16:14:52] [Worker-Main-8/INFO]: Preparing spawn area: 94%
+[16:14:52] [Server thread/INFO]: Time elapsed: 542 ms
+[16:14:52] [Server thread/INFO]: [dynmap] Enabling dynmap v3.1-457
+[16:14:52] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[16:14:52] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[16:14:52] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[16:14:53] [Server thread/INFO]: [dynmap] Loaded 25 shaders.
+[16:14:53] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[16:14:53] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[16:14:53] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[16:14:53] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[16:14:53] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[16:14:53] [Server thread/INFO]: [dynmap] version 3.1-457 is enabled - core version 3.1-457
+[16:14:53] [Server thread/INFO]: [dynmap] For support, visit https://reddit.com/r/Dynmap or our Discord at https://discord.gg/s3rd5qn
+[16:14:53] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[16:14:53] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[16:14:53] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[16:14:53] [Server thread/INFO]: [dynmap] Loaded 5 pending tile renders for world 'world'
+[16:14:53] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[16:14:53] [Server thread/INFO]: [dynmap] Enabled
+[16:14:53] [Server thread/INFO]: [WorldBorder] Enabling WorldBorder v1.9.10 (beta)
+[16:14:53] [Server thread/INFO]: [WorldBorder] [CONFIG] Using elliptic/round border, knockback of 3.0 blocks, and timer delay of 5.
+[16:14:53] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task started.
+[16:14:53] [Server thread/INFO]: [WorldBorder] [CONFIG] World "world" has border radius 19x16 at X: 440.0 Z: -48.0
+[16:14:53] [Server thread/INFO]: [WorldBorder] [CONFIG] Successfully hooked into DynMap for the ability to display borders.
+[16:14:53] [Server thread/INFO]: [WorldBorder] For reference, the main world's spawn location is at X: 176.0 Y: 73.0 Z: 80.0
+[16:14:53] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.4+f7ff984
+[16:14:53] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[16:14:53] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[16:14:53] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[16:14:53] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[16:14:53] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[16:14:53] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[16:14:53] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[16:14:53] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[16:14:53] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[16:14:53] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[16:14:53] [Server thread/INFO]: [WorldGuard] Loading region data...
+[16:14:53] [Server thread/INFO]: [Gamepilotstudy] Enabling Gamepilotstudy v1.0-SNAPSHOT
+[16:14:53] [Server thread/INFO]: [Gamepilotstudy] §aGAME_PILOT_STUDY PLUGIN ENABLED!
+[16:14:53] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:14:53] [Server thread/INFO]: Done (6.892s)! For help, type "help"
+[16:14:54] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[16:15:34] [User Authenticator #1/INFO]: UUID of player MeryWii22 is 2d0f4c95-f12b-4db5-af67-07dcf4f9a49d
+[16:15:34] [Server thread/INFO]: [com.spiritualloop.gamepilotstudy.Houseplot@7ffad3ec, com.spiritualloop.gamepilotstudy.Houseplot@7b2bd22b, com.spiritualloop.gamepilotstudy.Houseplot@7bd3da40, com.spiritualloop.gamepilotstudy.Houseplot@7d265cb]
+[16:15:34] [Server thread/INFO]: MeryWii22[/127.0.0.1:61418] logged in with entity id 187 at ([world]430.0, 70.0, -50.0)
+[16:16:30] [Server thread/INFO]: Stopping the server
+[16:16:30] [Server thread/INFO]: Stopping server
+[16:16:30] [Server thread/INFO]: [Gamepilotstudy] Disabling Gamepilotstudy v1.0-SNAPSHOT
+[16:16:30] [Server thread/INFO]: [Gamepilotstudy] GamePilotStudy has been disabled.
+[16:16:30] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.4+f7ff984
+[16:16:30] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[16:16:30] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.9.10 (beta)
+[16:16:30] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task stopped.
+[16:16:30] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.5+57d5ac9
+[16:16:30] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[16:16:30] [Server thread/INFO]: [dynmap] Disabling dynmap v3.1-457
+[16:16:30] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[16:16:30] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[16:16:30] [Server thread/INFO]: [dynmap] Saved 1794 pending tile renders in world 'world'
+[16:16:35] [Server thread/INFO]: [dynmap] Disabled
+[16:16:35] [Server thread/INFO]: Saving players
+[16:16:35] [Server thread/INFO]: MeryWii22 lost connection: Server closed
+[16:16:35] [Server thread/INFO]: MeryWii22 left the game
+[16:16:35] [Server thread/INFO]: Saving worlds
+[16:16:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:16:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:16:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[16:16:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:16:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:16:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
