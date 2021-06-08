@@ -14,7 +14,8 @@ dynmap-border-priority: 0
 player-killed-bad-spawn: false
 deny-enderpearl: true
 fill-autosave-frequency: 30
-bypass-list-uuids: []
+bypass-list-uuids:
+- 2d0f4c95-f12b-4db5-af67-07dcf4f9a49d
 fill-memory-tolerance: 500
 prevent-block-place: false
 prevent-mob-spawn: false

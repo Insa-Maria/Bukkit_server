@@ -1,127 +1,169 @@
-[16:14:38] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:14:39] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[16:14:39] [Worker-Main-14/INFO]: Loaded 7 recipes
-[16:14:40] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[16:14:40] [Server thread/INFO]: Loading properties
-[16:14:40] [Server thread/INFO]: Default game type: ADVENTURE
-[16:14:40] [Server thread/INFO]: Generating keypair
-[16:14:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:14:40] [Server thread/INFO]: Using default channel type
-[16:14:42] [Server thread/INFO]: This server is running CraftBukkit version 3092-Bukkit-ebe18b9 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[16:14:43] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[16:14:45] [Server thread/WARN]: Legacy plugin dynmap v3.1-457 does not specify an api-version.
-[16:14:45] [Server thread/INFO]: [dynmap] Loading dynmap v3.1-457
-[16:14:45] [Server thread/INFO]: [dynmap] version=3092-Bukkit-ebe18b9 (MC: 1.16.5)
-[16:14:45] [Server thread/INFO]: [dynmap] Mod Support API available
-[16:14:45] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.5+57d5ac9
-[16:14:45] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@205adb33]
-[16:14:45] [Server thread/INFO]: [WorldBorder] Loading WorldBorder v1.9.10 (beta)
-[16:14:45] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.4+f7ff984
-[16:14:45] [Server thread/INFO]: [Gamepilotstudy] Loading Gamepilotstudy v1.0-SNAPSHOT
-[16:14:45] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.5+57d5ac9
-[16:14:45] [Server thread/INFO]: WEPIF: Updated config file
-[16:14:45] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[16:14:46] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R3 as the Bukkit adapter
-[16:14:46] [Server thread/INFO]: [WorldEdit] ====================================================
-[16:14:46] [Server thread/INFO]: [WorldEdit]  WorldEdit works better if you use Paper 
-[16:14:46] [Server thread/INFO]: [WorldEdit]  as your server software. 
-[16:14:46] [Server thread/INFO]: [WorldEdit]   
-[16:14:46] [Server thread/INFO]: [WorldEdit]  Paper offers significant performance improvements,
-[16:14:46] [Server thread/INFO]: [WorldEdit]  bug fixes, security enhancements and optional
-[16:14:46] [Server thread/INFO]: [WorldEdit]  features for server owners to enhance their server.
-[16:14:46] [Server thread/INFO]: [WorldEdit]   
-[16:14:46] [Server thread/INFO]: [WorldEdit]  Paper includes Timings v2, which is significantly
-[16:14:46] [Server thread/INFO]: [WorldEdit]  better at diagnosing lag problems over v1.
-[16:14:46] [Server thread/INFO]: [WorldEdit]   
-[16:14:46] [Server thread/INFO]: [WorldEdit]  All of your plugins should still work, and the
-[16:14:46] [Server thread/INFO]: [WorldEdit]  Paper community will gladly help you fix any issues.
-[16:14:46] [Server thread/INFO]: [WorldEdit]   
-[16:14:46] [Server thread/INFO]: [WorldEdit]  Join the Paper Community @ https://papermc.io
-[16:14:46] [Server thread/INFO]: [WorldEdit] ====================================================
-[16:14:46] [Server thread/INFO]: Preparing level "world"
-[16:14:46] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[16:14:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:14:48] [Server thread/INFO]: Preparing spawn area: 0%
-[16:14:48] [Server thread/INFO]: Preparing spawn area: 0%
-[16:14:48] [Server thread/INFO]: Preparing spawn area: 23%
-[16:14:50] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[16:14:50] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[16:14:50] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[16:14:50] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[16:14:50] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[16:14:51] [Worker-Main-17/INFO]: Preparing spawn area: 93%
-[16:14:51] [Server thread/INFO]: Preparing spawn area: 96%
-[16:14:51] [Server thread/INFO]: Time elapsed: 4628 ms
-[16:14:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[16:14:52] [Server thread/INFO]: Preparing spawn area: 0%
-[16:14:52] [Worker-Main-8/INFO]: Preparing spawn area: 94%
-[16:14:52] [Server thread/INFO]: Time elapsed: 542 ms
-[16:14:52] [Server thread/INFO]: [dynmap] Enabling dynmap v3.1-457
-[16:14:52] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
-[16:14:52] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
-[16:14:52] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[16:14:53] [Server thread/INFO]: [dynmap] Loaded 25 shaders.
-[16:14:53] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
-[16:14:53] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
-[16:14:53] [Server thread/INFO]: [dynmap] Starting enter/exit processing
-[16:14:53] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
-[16:14:53] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
-[16:14:53] [Server thread/INFO]: [dynmap] version 3.1-457 is enabled - core version 3.1-457
-[16:14:53] [Server thread/INFO]: [dynmap] For support, visit https://reddit.com/r/Dynmap or our Discord at https://discord.gg/s3rd5qn
-[16:14:53] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
-[16:14:53] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
-[16:14:53] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[16:14:53] [Server thread/INFO]: [dynmap] Loaded 5 pending tile renders for world 'world'
-[16:14:53] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[16:14:53] [Server thread/INFO]: [dynmap] Enabled
-[16:14:53] [Server thread/INFO]: [WorldBorder] Enabling WorldBorder v1.9.10 (beta)
-[16:14:53] [Server thread/INFO]: [WorldBorder] [CONFIG] Using elliptic/round border, knockback of 3.0 blocks, and timer delay of 5.
-[16:14:53] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task started.
-[16:14:53] [Server thread/INFO]: [WorldBorder] [CONFIG] World "world" has border radius 19x16 at X: 440.0 Z: -48.0
-[16:14:53] [Server thread/INFO]: [WorldBorder] [CONFIG] Successfully hooked into DynMap for the ability to display borders.
-[16:14:53] [Server thread/INFO]: [WorldBorder] For reference, the main world's spawn location is at X: 176.0 Y: 73.0 Z: 80.0
-[16:14:53] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.4+f7ff984
-[16:14:53] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[16:14:53] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[16:14:53] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
-[16:14:53] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[16:14:53] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[16:14:53] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[16:14:53] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[16:14:53] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
-[16:14:53] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[16:14:53] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[16:14:53] [Server thread/INFO]: [WorldGuard] Loading region data...
-[16:14:53] [Server thread/INFO]: [Gamepilotstudy] Enabling Gamepilotstudy v1.0-SNAPSHOT
-[16:14:53] [Server thread/INFO]: [Gamepilotstudy] §aGAME_PILOT_STUDY PLUGIN ENABLED!
-[16:14:53] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[16:14:53] [Server thread/INFO]: Done (6.892s)! For help, type "help"
-[16:14:54] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[16:15:34] [User Authenticator #1/INFO]: UUID of player MeryWii22 is 2d0f4c95-f12b-4db5-af67-07dcf4f9a49d
-[16:15:34] [Server thread/INFO]: [com.spiritualloop.gamepilotstudy.Houseplot@7ffad3ec, com.spiritualloop.gamepilotstudy.Houseplot@7b2bd22b, com.spiritualloop.gamepilotstudy.Houseplot@7bd3da40, com.spiritualloop.gamepilotstudy.Houseplot@7d265cb]
-[16:15:34] [Server thread/INFO]: MeryWii22[/127.0.0.1:61418] logged in with entity id 187 at ([world]430.0, 70.0, -50.0)
-[16:16:30] [Server thread/INFO]: Stopping the server
-[16:16:30] [Server thread/INFO]: Stopping server
-[16:16:30] [Server thread/INFO]: [Gamepilotstudy] Disabling Gamepilotstudy v1.0-SNAPSHOT
-[16:16:30] [Server thread/INFO]: [Gamepilotstudy] GamePilotStudy has been disabled.
-[16:16:30] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.4+f7ff984
-[16:16:30] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
-[16:16:30] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.9.10 (beta)
-[16:16:30] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task stopped.
-[16:16:30] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.5+57d5ac9
-[16:16:30] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[16:16:30] [Server thread/INFO]: [dynmap] Disabling dynmap v3.1-457
-[16:16:30] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[16:16:30] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[16:16:30] [Server thread/INFO]: [dynmap] Saved 1794 pending tile renders in world 'world'
-[16:16:35] [Server thread/INFO]: [dynmap] Disabled
-[16:16:35] [Server thread/INFO]: Saving players
-[16:16:35] [Server thread/INFO]: MeryWii22 lost connection: Server closed
-[16:16:35] [Server thread/INFO]: MeryWii22 left the game
-[16:16:35] [Server thread/INFO]: Saving worlds
-[16:16:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:16:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:16:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[16:16:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:16:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:16:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:39:35] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[09:39:36] [Worker-Main-12/INFO]: Loaded 7 recipes
+[09:39:37] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[09:39:37] [Server thread/INFO]: Loading properties
+[09:39:37] [Server thread/INFO]: Default game type: ADVENTURE
+[09:39:37] [Server thread/INFO]: Generating keypair
+[09:39:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:39:37] [Server thread/INFO]: Using default channel type
+[09:39:39] [Server thread/INFO]: This server is running CraftBukkit version 3092-Bukkit-ebe18b9 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[09:39:40] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[09:39:41] [Server thread/WARN]: Legacy plugin dynmap v3.1-457 does not specify an api-version.
+[09:39:42] [Server thread/INFO]: [dynmap] Loading dynmap v3.1-457
+[09:39:42] [Server thread/INFO]: [dynmap] version=3092-Bukkit-ebe18b9 (MC: 1.16.5)
+[09:39:42] [Server thread/INFO]: [dynmap] Mod Support API available
+[09:39:42] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.5+57d5ac9
+[09:39:42] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@18692643]
+[09:39:42] [Server thread/INFO]: [WorldBorder] Loading WorldBorder v1.9.10 (beta)
+[09:39:42] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.4+f7ff984
+[09:39:42] [Server thread/INFO]: [Gamepilotstudy] Loading Gamepilotstudy v1.0-SNAPSHOT
+[09:39:42] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.5+57d5ac9
+[09:39:42] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[09:39:42] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R3 as the Bukkit adapter
+[09:39:43] [Server thread/INFO]: [WorldEdit] ====================================================
+[09:39:43] [Server thread/INFO]: [WorldEdit]  WorldEdit works better if you use Paper 
+[09:39:43] [Server thread/INFO]: [WorldEdit]  as your server software. 
+[09:39:43] [Server thread/INFO]: [WorldEdit]   
+[09:39:43] [Server thread/INFO]: [WorldEdit]  Paper offers significant performance improvements,
+[09:39:43] [Server thread/INFO]: [WorldEdit]  bug fixes, security enhancements and optional
+[09:39:43] [Server thread/INFO]: [WorldEdit]  features for server owners to enhance their server.
+[09:39:43] [Server thread/INFO]: [WorldEdit]   
+[09:39:43] [Server thread/INFO]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[09:39:43] [Server thread/INFO]: [WorldEdit]  better at diagnosing lag problems over v1.
+[09:39:43] [Server thread/INFO]: [WorldEdit]   
+[09:39:43] [Server thread/INFO]: [WorldEdit]  All of your plugins should still work, and the
+[09:39:43] [Server thread/INFO]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[09:39:43] [Server thread/INFO]: [WorldEdit]   
+[09:39:43] [Server thread/INFO]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[09:39:43] [Server thread/INFO]: [WorldEdit] ====================================================
+[09:39:43] [Server thread/INFO]: Preparing level "world"
+[09:39:43] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[09:39:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:39:44] [Server thread/INFO]: Preparing spawn area: 0%
+[09:39:44] [Server thread/INFO]: Preparing spawn area: 0%
+[09:39:44] [Server thread/INFO]: Preparing spawn area: 0%
+[09:39:47] [Worker-Main-8/INFO]: Preparing spawn area: 94%
+[09:39:47] [Worker-Main-8/INFO]: Preparing spawn area: 94%
+[09:39:47] [Worker-Main-9/INFO]: Preparing spawn area: 94%
+[09:39:47] [Worker-Main-14/INFO]: Preparing spawn area: 94%
+[09:39:47] [Worker-Main-14/INFO]: Preparing spawn area: 94%
+[09:39:47] [Worker-Main-14/INFO]: Preparing spawn area: 94%
+[09:39:48] [Server thread/INFO]: Time elapsed: 4477 ms
+[09:39:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[09:39:48] [Server thread/INFO]: Preparing spawn area: 0%
+[09:39:48] [Worker-Main-16/INFO]: Preparing spawn area: 97%
+[09:39:48] [Server thread/INFO]: Time elapsed: 520 ms
+[09:39:48] [Server thread/INFO]: [dynmap] Enabling dynmap v3.1-457
+[09:39:48] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[09:39:48] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[09:39:48] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[09:39:49] [Server thread/INFO]: [dynmap] Loaded 25 shaders.
+[09:39:49] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[09:39:49] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[09:39:49] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[09:39:49] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[09:39:49] [Server thread/INFO]: [dynmap] version 3.1-457 is enabled - core version 3.1-457
+[09:39:49] [Server thread/INFO]: [dynmap] For support, visit https://reddit.com/r/Dynmap or our Discord at https://discord.gg/s3rd5qn
+[09:39:49] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[09:39:49] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[09:39:49] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[09:39:49] [Server thread/INFO]: [dynmap] Loaded 21 pending tile renders for world 'world'
+[09:39:49] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[09:39:49] [Server thread/INFO]: [dynmap] Enabled
+[09:39:49] [Server thread/INFO]: [WorldBorder] Enabling WorldBorder v1.9.10 (beta)
+[09:39:49] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[09:39:49] [Server thread/INFO]: [WorldBorder] [CONFIG] Using elliptic/round border, knockback of 3.0 blocks, and timer delay of 5.
+[09:39:49] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task started.
+[09:39:49] [Server thread/INFO]: [WorldBorder] [CONFIG] World "world" has border radius 19x16 at X: 440.0 Z: -48.0
+[09:39:49] [Server thread/INFO]: [WorldBorder] [CONFIG] Successfully hooked into DynMap for the ability to display borders.
+[09:39:49] [Server thread/INFO]: [WorldBorder] For reference, the main world's spawn location is at X: 176.0 Y: 73.0 Z: 80.0
+[09:39:49] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.4+f7ff984
+[09:39:49] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[09:39:49] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[09:39:49] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[09:39:49] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[09:39:49] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[09:39:49] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[09:39:49] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[09:39:49] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[09:39:49] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[09:39:49] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[09:39:49] [Server thread/INFO]: [WorldGuard] Loading region data...
+[09:39:49] [Server thread/INFO]: [Gamepilotstudy] Enabling Gamepilotstudy v1.0-SNAPSHOT
+[09:39:49] [Server thread/INFO]: [Gamepilotstudy] §aGAME_PILOT_STUDY PLUGIN ENABLED!
+[09:39:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[09:39:49] [Server thread/INFO]: Done (6.568s)! For help, type "help"
+[09:39:50] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[09:41:09] [User Authenticator #1/INFO]: UUID of player MeryWii22 is 2d0f4c95-f12b-4db5-af67-07dcf4f9a49d
+[09:41:09] [Server thread/INFO]: [com.spiritualloop.gamepilotstudy.Houseplot@7546e6b, com.spiritualloop.gamepilotstudy.Houseplot@4e820641, com.spiritualloop.gamepilotstudy.Houseplot@30c0d5cc, com.spiritualloop.gamepilotstudy.Houseplot@1c49be5]
+[09:41:10] [Server thread/INFO]: MeryWii22[/127.0.0.1:60159] logged in with entity id 117 at ([world]430.0, 70.0, -50.0)
+[09:41:19] [Server thread/INFO]: MeryWii22 issued server command: /gamemode creative MeryWii22
+[09:41:19] [Server thread/INFO]: [MeryWii22: Set own game mode to Creative Mode]
+[09:41:28] [Server thread/INFO]: MeryWii22 issued server command: /schematic list
+[09:41:51] [Server thread/INFO]: MeryWii22 issued server command: /schematic load Level1_Village_Church
+[09:41:51] [WorldEdit Task Executor - 0/INFO]: MeryWii22 loaded C:\game\BuildTools_07.06.21\BuildTools\plugins\WorldEdit\schematics\Level1_Village_Church.schem
+[09:42:12] [Server thread/INFO]: MeryWii22 issued server command: //paste
+[09:42:29] [Server thread/INFO]: MeryWii22 issued server command: //undo
+[09:42:29] [Server thread/ERROR]: Block at 457, 63, -57 is Block{minecraft:grass_block} but has net.minecraft.server.v1_16_R3.TileEntityChest@18fe18c. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[09:42:30] [Server thread/ERROR]: Block at 434, 62, -58 is Block{minecraft:grass_block} but has net.minecraft.server.v1_16_R3.TileEntityChest@4a75aaf0. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[09:42:30] [Server thread/ERROR]: Block at 439, 59, -90 is Block{minecraft:stone} but has net.minecraft.server.v1_16_R3.TileEntityChest@3c2c668. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[09:42:30] [Server thread/ERROR]: Block at 457, 64, -58 is Block{minecraft:grass} but has net.minecraft.server.v1_16_R3.TileEntityFurnaceFurnace@126eae8. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[09:42:37] [Server thread/INFO]: MeryWii22 issued server command: //paste
+[09:42:43] [Server thread/INFO]: MeryWii22 issued server command: //undo
+[09:42:44] [Server thread/ERROR]: Block at 457, 63, -57 is Block{minecraft:grass_block} but has net.minecraft.server.v1_16_R3.TileEntityChest@556ceb61. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[09:42:44] [Server thread/ERROR]: Block at 434, 62, -58 is Block{minecraft:grass_block} but has net.minecraft.server.v1_16_R3.TileEntityChest@253514f5. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[09:42:44] [Server thread/ERROR]: Block at 439, 59, -90 is Block{minecraft:stone} but has net.minecraft.server.v1_16_R3.TileEntityChest@6653bc1a. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[09:42:44] [Server thread/ERROR]: Block at 457, 64, -58 is Block{minecraft:grass} but has net.minecraft.server.v1_16_R3.TileEntityFurnaceFurnace@4b03ada1. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[09:42:47] [Server thread/INFO]: MeryWii22 issued server command: //paste
+[09:42:57] [Server thread/INFO]: MeryWii22 issued server command: //undo
+[09:42:57] [Server thread/ERROR]: Block at 457, 63, -57 is Block{minecraft:grass_block} but has net.minecraft.server.v1_16_R3.TileEntityChest@6b539d7d. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[09:42:57] [Server thread/ERROR]: Block at 434, 62, -58 is Block{minecraft:grass_block} but has net.minecraft.server.v1_16_R3.TileEntityChest@5302f490. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[09:42:57] [Server thread/ERROR]: Block at 439, 59, -90 is Block{minecraft:stone} but has net.minecraft.server.v1_16_R3.TileEntityChest@587166ec. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[09:42:57] [Server thread/ERROR]: Block at 457, 64, -58 is Block{minecraft:grass} but has net.minecraft.server.v1_16_R3.TileEntityFurnaceFurnace@227ddb9e. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[09:43:02] [Server thread/INFO]: MeryWii22 issued server command: //paste
+[09:43:05] [Server thread/INFO]: MeryWii22 issued server command: //undo
+[09:43:05] [Server thread/ERROR]: Block at 457, 63, -57 is Block{minecraft:grass_block} but has net.minecraft.server.v1_16_R3.TileEntityChest@5fb62f20. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[09:43:05] [Server thread/ERROR]: Block at 434, 62, -58 is Block{minecraft:grass_block} but has net.minecraft.server.v1_16_R3.TileEntityChest@45b6c57c. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[09:43:05] [Server thread/ERROR]: Block at 439, 59, -90 is Block{minecraft:stone} but has net.minecraft.server.v1_16_R3.TileEntityChest@3bdebb59. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[09:43:05] [Server thread/ERROR]: Block at 457, 64, -58 is Block{minecraft:grass} but has net.minecraft.server.v1_16_R3.TileEntityFurnaceFurnace@34a257d4. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[09:43:33] [Server thread/INFO]: MeryWii22 lost connection: Disconnected
+[09:43:33] [Server thread/INFO]: MeryWii22 left the game
+[15:45:50] [User Authenticator #2/INFO]: UUID of player MeryWii22 is 2d0f4c95-f12b-4db5-af67-07dcf4f9a49d
+[15:45:50] [Server thread/INFO]: [com.spiritualloop.gamepilotstudy.Houseplot@670825d0, com.spiritualloop.gamepilotstudy.Houseplot@50fd81c6, com.spiritualloop.gamepilotstudy.Houseplot@243ee1a5, com.spiritualloop.gamepilotstudy.Houseplot@1e6ad00f]
+[15:45:50] [Server thread/INFO]: MeryWii22[/127.0.0.1:51034] logged in with entity id 718 at ([world]430.0, 70.0, -50.0)
+[15:46:21] [Server thread/INFO]: MeryWii22 issued server command: //paste
+[15:46:33] [Server thread/INFO]: MeryWii22 issued server command: /schematic list
+[15:46:49] [Server thread/INFO]: MeryWii22 issued server command: /schematic load Level1_Village_Church
+[15:46:49] [WorldEdit Task Executor - 1/INFO]: MeryWii22 loaded C:\game\BuildTools_07.06.21\BuildTools\plugins\WorldEdit\schematics\Level1_Village_Church.schem
+[15:46:52] [Server thread/INFO]: MeryWii22 issued server command: //paste
+[15:46:56] [Server thread/INFO]: MeryWii22 issued server command: //undo
+[15:46:56] [Server thread/ERROR]: Block at 457, 63, -57 is Block{minecraft:grass_block} but has net.minecraft.server.v1_16_R3.TileEntityChest@6c752d42. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[15:46:56] [Server thread/ERROR]: Block at 434, 62, -58 is Block{minecraft:grass_block} but has net.minecraft.server.v1_16_R3.TileEntityChest@33a7ce71. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[15:46:56] [Server thread/ERROR]: Block at 439, 59, -90 is Block{minecraft:stone} but has net.minecraft.server.v1_16_R3.TileEntityChest@45e54409. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[15:46:56] [Server thread/ERROR]: Block at 457, 64, -58 is Block{minecraft:grass} but has net.minecraft.server.v1_16_R3.TileEntityFurnaceFurnace@6d4f7cd2. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[15:47:03] [Server thread/INFO]: MeryWii22 issued server command: //paste
+[15:47:58] [Server thread/INFO]: MeryWii22 lost connection: Disconnected
+[15:47:58] [Server thread/INFO]: MeryWii22 left the game
+[15:48:07] [Server thread/INFO]: Stopping the server
+[15:48:07] [Server thread/INFO]: Stopping server
+[15:48:07] [Server thread/INFO]: [Gamepilotstudy] Disabling Gamepilotstudy v1.0-SNAPSHOT
+[15:48:07] [Server thread/INFO]: [Gamepilotstudy] GamePilotStudy has been disabled.
+[15:48:07] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.4+f7ff984
+[15:48:07] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[15:48:07] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.9.10 (beta)
+[15:48:07] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task stopped.
+[15:48:07] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.5+57d5ac9
+[15:48:07] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[15:48:07] [Server thread/INFO]: [dynmap] Disabling dynmap v3.1-457
+[15:48:07] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[15:48:07] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[15:48:07] [Server thread/INFO]: [dynmap] Saved 67 pending tile renders in world 'world'
+[15:48:07] [Server thread/INFO]: [dynmap] Disabled
+[15:48:07] [Server thread/INFO]: Saving players
+[15:48:07] [Server thread/INFO]: Saving worlds
+[15:48:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:48:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:48:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:48:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:48:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:48:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

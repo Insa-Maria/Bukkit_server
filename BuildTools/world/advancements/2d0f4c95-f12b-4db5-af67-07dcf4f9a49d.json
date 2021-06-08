@@ -2,6 +2,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2021-06-07 16:05:11 +0100",
+      "minecraft:taiga": "2021-06-07 17:13:22 +0100",
       "minecraft:plains": "2021-06-07 16:10:41 +0100"
     },
     "done": false
