@@ -1,0 +1,40 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Find your chest"
+        },
+        "description": {
+            "text": "Here you will find the resources you need to play each game level"
+        },
+        "icon": {
+            "item": "minecraft:chest"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "find chest": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:plains",
+                "dimension": "overworld",
+                "feature": "village",
+                "position": {
+                    "x": 442,
+                    "y": 63,
+                    "z": -56
+                }
+            }
+        }
+    },
+    "rewards": {
+        "recipes": [
+            "build_home"
+        ],
+        "experience": 1
+    },
+    "parent": "minecraft:root"
+}

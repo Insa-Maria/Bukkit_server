@@ -1,0 +1,37 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Share is caring"
+        },
+        "description": {
+            "text": "Share time and goods with your neighbor ",
+            "color": "white"
+        },
+        "icon": {
+            "item": "minecraft:apple"
+        },
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "share with friends": {
+            "trigger": "minecraft:player_interacted_with_entity",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:apple",
+                    "count": {
+                        "min": 1,
+                        "max": 1
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "experience": 2
+    },
+    "parent": "minecraft:speak_friend"
+}

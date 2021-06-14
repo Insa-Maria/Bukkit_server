@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": "minecraft:grass",
+        "title": "Minecraft",
+        "background": "minecxraft:textures/gui/advancement/background/stone.png"
+    },
+    "criteria": {
+        "crafting_table": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:crafting_table"
+                    }
+                ]
+            }
+        }
+    }
+}
