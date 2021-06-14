@@ -18,8 +18,8 @@ PlayerLevels:
       item: emerald
       amount: 10
   2d0f4c95-f12b-4db5-af67-07dcf4f9a49d:
-    level: 1
-    xp: 500
+    level: 0
+    xp: 0
 Test:
   plot:
     type: STONE
@@ -63,3 +63,21 @@ HousePlots:
     centreX: 446
     centreY: 63
     centreZ: -59
+LevelChests:
+  Chests:
+  - id: 1
+    x: 427
+    y: 64
+    z: -48
+  - id: 2
+    x: 427
+    y: 64
+    z: -49
+  - id: 3
+    x: 427
+    y: 64
+    z: -50
+  - id: 4
+    x: 427
+    y: 64
+    z: -51
