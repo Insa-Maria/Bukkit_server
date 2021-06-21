@@ -13,13 +13,12 @@ PlayerLevels:
       xp: 500
       item: coal
       amount: 15
+      inventory:
+      - Material.OAK_WOOD, 20
     '2':
       xp: 1200
       item: emerald
       amount: 10
-  2d0f4c95-f12b-4db5-af67-07dcf4f9a49d:
-    level: 0
-    xp: 0
 Test:
   plot:
     type: STONE

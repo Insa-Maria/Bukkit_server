@@ -19,8 +19,8 @@ regions:
         type: cuboid
         priority: 0
     houseplot03:
-        min: {x: 450, y: 63, z: -47}
-        max: {x: 458, y: 73, z: -39}
+        min: {x: 450, y: 64, z: -47}
+        max: {x: 458, y: 74, z: -39}
         members: {}
         flags: {}
         owners: {}
